@@ -1,1 +1,1 @@
-I made an html file and added it to my github repository. I also deployed this html file using GitHub Pages.
+I made an html file and added it to my github repository. I also deployed this html file using GitHub Pages. There were some issues but the lab was informative.
